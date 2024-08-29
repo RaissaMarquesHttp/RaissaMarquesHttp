@@ -26,7 +26,7 @@
 
 ## 🎓 **Formação Acadêmica**
 
-- **Análise e Desenvolvimento de Sistemas** - [Nome da sua instituição]  
+- **Análise e Desenvolvimento de Sistemas** - [UNIP]  
   Desenvolvi uma sólida base em engenharia de software, padrões de design, e práticas de desenvolvimento ágil.
 
 ---
@@ -40,22 +40,13 @@
 
 ## 🏆 **Projetos Destacados**
 
-### [💻 Projeto 1: Sistema de Gerenciamento de Tarefas](https://github.com/seu-usuario/projeto1)
-Um sistema completo de gerenciamento de tarefas, com autenticação, CRUD e integração de API.
-- **Tecnologias**: React, Node.js, MySQL
-- **Funcionalidades**: Autenticação JWT, Interface Responsiva, API RESTful
+### [💻 Projeto 1: Ciclix: Sistema de Cadastro](https://github.com/seu-usuario/projeto1)
+Um sistema com a ideia de auxiliar a população com a coleta seletiva, comm formularios para preenchimento de dados.
+- **Tecnologias**: HTML, CSS, Javascript
+- **Funcionalidades**: Formulario
 
-### [🛒 Projeto 2: Aplicação de Comércio Eletrônico](https://github.com/seu-usuario/projeto2)
-E-commerce completo com front-end em Angular e back-end em Java.
-- **Tecnologias**: Angular, Spring Boot, PostgreSQL
-- **Funcionalidades**: Carrinho de Compras, Processamento de Pagamentos, Gestão de Inventário
 
-### [📊 Projeto 3: Dashboard de Visualização de Dados](https://github.com/seu-usuario/projeto3)
-Dashboard interativo para visualização de dados, integrando diversas APIs externas.
-- **Tecnologias**: React, Node.js, TypeScript, APIs REST
-- **Funcionalidades**: Gráficos Interativos, Atualização em Tempo Real
 
----
 
 ## 🚀 **Objetivos e Motivação**
 
@@ -66,8 +57,8 @@ Meu objetivo é continuar crescendo como desenvolvedora full stack, explorando n
 ## 📫 **Contato**
 
 <p align="center">
-  <a href="https://linkedin.com/in/seu-usuario"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="mailto:seuemail@exemplo.com"><img src="https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="https://linkedin.com/in/seu-usuario"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">https://www.linkedin.com/in/raissa-marquesb/</a>
+  <a href="mailto:seuemail@exemplo.com"><img src="https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">raissamarquesb@gmail.com</a>
   <a href="https://github.com/seu-usuario"><img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
 </p>
 
